@@ -1,1 +1,3 @@
-# techtalks.io chef solo
+# chef
+Chef solo configuration for techtalks.io
+
