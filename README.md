@@ -1,0 +1,1 @@
+# techtalks.io chef solo
