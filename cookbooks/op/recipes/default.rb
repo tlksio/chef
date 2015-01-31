@@ -2,6 +2,7 @@
 package 'ntp'
 package 'git'
 package 'build-essential'
+package 'supervisor'
 
 # --- Set host name ---
 hostname = 'vps129914.ovh.net'
