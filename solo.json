@@ -1,6 +1,7 @@
 {
     "run_list": [
         "recipe[op::default]",
-        "recipe[op::user]"
+        "recipe[op::user]",
+        "recipe[op::nodejs]"
     ]
 }

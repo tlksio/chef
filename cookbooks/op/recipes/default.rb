@@ -2,11 +2,6 @@
 package 'ntp'
 package 'git'
 package 'build-essential'
-package 'lighttpd'
-package 'php5'
-package 'php5-cli'
-package 'php5-dev'
-package 'php5-cgi'
 
 # --- Set host name ---
 hostname = 'vps129914.ovh.net'
