@@ -2,6 +2,7 @@
     "run_list": [
         "recipe[op::default]",
         "recipe[op::user]",
-        "recipe[op::nodejs]"
+        "recipe[op::nodejs]",
+        "recipe[techtalks::front]"
     ]
 }
