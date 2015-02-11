@@ -1,17 +1,17 @@
-git "/opt/techtalks.io/front" do
-    repository "https://github.com/techtalksio/front.git"
+git "/opt/tlks.io/front" do
+    repository "https://github.com/tlksio/front.git"
     revision "develop"
     action :sync
 end
 
-cookbook_file '/etc/supervisor/conf.d/techtalks-front.conf' do
-    name "techtalks-front.conf"
+cookbook_file '/etc/supervisor/conf.d/tlks-front.conf' do
+    name "tlks-front.conf"
     mode '0755'
     owner 'root'
     group 'root'
 end
 
-directory "/var/log/techtalks" do
+directory "/var/log/tlks.io" do
     owner 'root'
     group 'root'
     mode '0755'
@@ -19,7 +19,7 @@ directory "/var/log/techtalks" do
 end
 
 bash "front" do
-    cwd "/opt/techtalks.io/front"
+    cwd "/opt/tlks.io/front"
     code <<-EOH
     npm install
     EOH

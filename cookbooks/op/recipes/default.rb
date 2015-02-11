@@ -5,7 +5,7 @@ package 'build-essential'
 package 'supervisor'
 
 # --- Set host name ---
-hostname = 'vps129914.ovh.net'
+hostname = 'tlks.io'
 
 file '/etc/hostname' do
   content "#{hostname}\n"
@@ -15,7 +15,7 @@ file '/etc/hosts' do
   content "127.0.0.1 localhost #{hostname}\n"
 end
 
-directory "/opt/techtalks.io" do
+directory "/opt/tlks.io" do
   owner 'root'
   group 'root'
   mode '0755'
