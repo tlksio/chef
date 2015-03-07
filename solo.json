@@ -3,6 +3,6 @@
         "recipe[op::default]",
         "recipe[op::user]",
         "recipe[op::nodejs]",
-        "recipe[techtalks::front]"
+        "recipe[tlks::front]"
     ]
 }
