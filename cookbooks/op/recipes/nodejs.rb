@@ -1,5 +1,3 @@
-package 'libpcap2-bin'
-
 bash 'nodejs' do
     user "root"
     cwd "/tmp"
