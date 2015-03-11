@@ -21,6 +21,8 @@ end
 bash "front" do
     cwd "/opt/tlks.io/front"
     code <<-EOH
+    chown www-data:www-data -R ..
+    chmod g+w -R ..
     npm install
     EOH
 end
