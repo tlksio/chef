@@ -24,5 +24,6 @@ bash "front" do
     chown www-data:www-data -R ..
     chmod g+w -R ..
     npm install
+    sudo service supervisor restart
     EOH
 end
