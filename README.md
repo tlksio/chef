@@ -1,9 +1,12 @@
-tlks.io : chef
-==============
+# tlks.io : chef
+
+1. [Bugs and feature requests](https://github.com/tlksio/chef#bugs-and-feature-requests)
+2. [Contributing](https://github.com/tlksio/chef#contributing)
+3. [Versioning](https://github.com/tlksio/chef#versioning)
+4. [Creators](https://github.com/tlksio/chef#creators)
+5. [Copyright and license](https://github.com/tlksio/chef#copyright-and-license)
 
 tlks.io chef deploy scripts.
-
-[TOC]
 
 ## Bugs and feature requests
 
@@ -36,8 +39,8 @@ up, but we'll adhere to those rules whenever possible.
 
 **Raül Pérez**
 
-- <https://twitter.com/repejota>
-- <https://github.com/repejota>
+* <https://twitter.com/repejota>
+* <https://github.com/repejota>
 
 ## Copyright and license
 
