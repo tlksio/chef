@@ -1,28 +1,9 @@
 tlks.io : chef
 ==============
 
-tlks.io chef deploy scripts
+tlks.io chef deploy scripts.
 
-## Table of contents
-
-- [Build status](#build-status)
-- [Quick start](#quick-start)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [Versioning](#versioning)
-- [Creators](#creators)
-- [Copyright and license](#copyright-and-license)
-
-## Build status
-
-* Branch Master : [![Build Status Master](https://travis-ci.org/tlksio/chef.svg?branch=master)](https://travis-ci.org/tlksio/chef)
-
-* Branch Develop : [![Build Status Develop](https://travis-ci.org/tlksio/chef.svg?branch=develop)](https://travis-ci.org/tlksio/chef)
-
-## Quick start
-
-todo
+[TOC]
 
 ## Bugs and feature requests
 
@@ -31,10 +12,6 @@ Have a bug or a feature request? Please first read the
 and search for existing and closed issues. If your problem or idea is not
 addressed yet,
 [please open a new issue](https://github.com/tlksio/chef/issues/new).
-
-## Documentation
-
-todo
 
 ## Contributing
 
