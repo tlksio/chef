@@ -14,4 +14,4 @@ if ! test -f "$chef_binary"; then
     apt-get install -y chef
 fi &&
 
-"$chef_binary" -c solo.rb -j solo.json
+"$chef_binary" -c solo.rb -j solo.json -l debug
