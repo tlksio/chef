@@ -16,6 +16,11 @@ and search for existing and closed issues. If your problem or idea is not
 addressed yet,
 [please open a new issue](https://github.com/tlksio/chef/issues/new).
 
+## Documentation
+
+Please check the whole Project Documentation repo at:
+[tlks.io documentation](https://github.com/tlksio/docs)
+
 ## Contributing
 
 Please read through our [contributing guidelines](CONTRIBUTING.md). Included
