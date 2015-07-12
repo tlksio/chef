@@ -3,6 +3,9 @@
         "recipe[op::default]",
         "recipe[op::user]",
         "recipe[op::nodejs]",
-        "recipe[tlks::front]"
+        "recipe[tlks::front]",
+        "recipe[tlks::api]",
+        "recipe[tlks::server]",
+        "recipe[tlks::workers]"
     ]
 }
