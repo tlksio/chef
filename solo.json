@@ -5,6 +5,7 @@
         "recipe[op::nodejs]",
         "recipe[tlks::front]",
         "recipe[tlks::api]",
-        "recipe[tlks::server]"
+        "recipe[tlks::server]",
+        "recipe[tlks::workers]"
     ]
 }
