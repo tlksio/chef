@@ -2,6 +2,7 @@
     "run_list": [
         "recipe[op::default]",
         "recipe[op::user]",
+        "recipe[op::golang]",
         "recipe[op::nodejs]",
         "recipe[tlks::front]",
         "recipe[tlks::api]",
